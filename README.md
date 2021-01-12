@@ -1,2 +1,2 @@
 # algoritmanalizi
-Seçilen algoritmaya göre kullanıcıya çıktı verir.  
+Seçilen algoritmaya göre kullanıcıya çıktı verir. Java uygulamasıdır. 
